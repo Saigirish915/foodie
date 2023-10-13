@@ -8,7 +8,7 @@
 
   Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
+  <a href="https://Saigirish915.github.io/foodie/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -31,20 +31,12 @@ To run **Foodie** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/foodie.git
+sudo git clone https://github.com/Saigirish915/foodie.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/foodie.git
+git clone https://github.com/Saigirish915/foodie.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
-"# foodie" 
