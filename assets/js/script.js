@@ -1,7 +1,5 @@
 'use strict';
 
-
-
 /**
  * navbar toggle
  */
@@ -41,8 +39,6 @@ window.addEventListener("scroll", function () {
   }
 });
 
-
-
 /**
  * search box toggle
  */
@@ -60,8 +56,6 @@ for (let i = 0; i < searchBoxElems.length; i++) {
     document.body.classList.toggle("active");
   });
 }
-
-
 
 /**
  * move cycle on scroll
