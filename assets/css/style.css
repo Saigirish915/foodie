@@ -1,24 +1,5 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
-
 :root {
 
-  /**
-   * colors
-   */
 
   --rich-black-fogra-29: hsl(210, 26%, 7%);
   --champagne-pink_20: hsla(23, 61%, 86%, 0.2);
@@ -40,9 +21,7 @@
   --black: hsl(0, 0%, 0%);
   --onyx: hsl(0, 0%, 27%);
 
-  /**
-   * typography
-   */
+
 
   --ff-shadows-into-light: 'Shadows Into Light', cursive;
   --ff-roboto: 'Roboto', sans-serif;
@@ -58,42 +37,26 @@
   --fw-600: 600;
   --fw-700: 700;
 
-  /**
-   * spacing
-   */
+
 
   --section-padding: 60px;
 
-  /**
-   * shadow
-   */
+
 
   --shadow-1: 0 1px 4px hsla(0, 0%, 0%, 0.2);
   --shadow-2: 0 1px 2px hsla(0, 0%, 0%, 0.2);
 
-  /**
-   * transition
-   */
-
+ 
   --transition-1: 0.25s ease;
   --transition-2: 0.5s ease;
 
-  /**
-   * clip path
-   */
+
 
   --clip-path-1: polygon(0 40%, 100% 0%, 100% 100%, 0 100%);
   --clip-path-2: polygon(0 0%, 100% 0%, 100% 100%, 0 100%);
 
 }
 
-
-
-
-
-/*-----------------------------------*\
-  #RESET
-\*-----------------------------------*/
 
 *,
 *::before,
@@ -172,13 +135,6 @@ body.active { overflow: hidden; }
 
 ::-webkit-scrollbar-thumb:hover { background-color: var(--tangerine); }
 
-
-
-
-
-/*-----------------------------------*\
-  #REUSED STYLE
-\*-----------------------------------*/
 
 .container { padding-inline: 15px; }
 
@@ -324,11 +280,6 @@ body.active { overflow: hidden; }
 
 
 
-
-/*-----------------------------------*\
-  #HEADER
-\*-----------------------------------*/
-
 /* .navbar, */
 .header-btn-group .btn { display: none; }
 
@@ -454,9 +405,6 @@ body.active { overflow: hidden; }
 
 
 
-/*-----------------------------------*\
-  #SEARCH BOX
-\*-----------------------------------*/
 
 .search-container {
   position: fixed;
@@ -518,12 +466,6 @@ body.active { overflow: hidden; }
 }
 
 
-
-
-
-/*-----------------------------------*\
-  #HERO
-\*-----------------------------------*/
 
 .hero-banner { display: none; }
 
